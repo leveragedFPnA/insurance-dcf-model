@@ -14,7 +14,7 @@ Hypothetical property & casualty insurer valuation
 **$404.9 million** (base case)
 
 ### Files
-- [Cyberia P&C DCF Model v1.xlsx](Cyberia%20P&C%20DCF%20Model%20v1.xlsx) ← Full Excel model (download & play with it)
+(https://github.com/leveragedFPnA/insurance-dcf-model/blob/main/Cyberia%20P%26C%20DCF%20Model_v1.xlsx) ← Full Excel model (download & play with it)
 
 Feedback very welcome!  
 Built by Abhishek (@leveragedFPhA)
