@@ -12,6 +12,8 @@ Hypothetical property & casualty insurer valuation
 
 ### Current Equity Value
 **$404.9 million** (base case)
+### Known Issue
+- This is draft version, I will be review and upload again
 
 ### Files
 (https://github.com/leveragedFPnA/insurance-dcf-model/blob/main/Cyberia%20P%26C%20DCF%20Model_v1.xlsx) ← Full Excel model (download & play with it)
